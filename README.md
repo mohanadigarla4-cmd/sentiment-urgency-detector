@@ -1,0 +1,2 @@
+# sentiment-urgency-detector
+An AI-powered application that analyzes text to detect sentiment (positive, neutral, negative) and urgency levels (high, medium, low) using Natural Language Processing (NLP).
